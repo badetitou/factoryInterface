@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Opc.Ua.Stack-1.02.336.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-nio-4.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk15on-147.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scprov-jdk15on-1.47.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcpkix-jdk15on-147.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scpkix-jdk15on-1.47.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-2.1.0-436.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sc-light-jdk15on-1.47.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
